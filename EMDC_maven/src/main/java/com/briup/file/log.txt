@@ -1,0 +1,131 @@
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-client write success!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:24)-sql语句执行完成。com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.error(LogImpl.java:37)-发送异常！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client write success!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.error(LogImpl.java:37)-发送异常！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client write success!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server is running.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-connect success!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client write success!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-read success!!!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server 等待连接.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-连接成功！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client 发送成功!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server接收成功
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server 等待连接.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-连接成功！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client 发送成功!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server接收成功
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server 等待连接.................
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始采集！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-采集结束！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-温度：35343
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-光照强度：26056
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-二氧化碳：10124
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-连接成功！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-client 发送成功!!
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-server接收成功
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-开始入库！
+com.briup.log.impl.LogImpl.info(LogImpl.java:27)-入库完成！

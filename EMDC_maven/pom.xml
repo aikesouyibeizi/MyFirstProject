@@ -1,0 +1,53 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.briup</groupId>
+  <artifactId>smarthome</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		<!-- ojdbc依赖 -->
+		<!-- 
+		在maven项目中配置ojdbc驱动的命令：
+		mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14 -Dversion=14.0 -Dpackaging=jar -Dfile=C:\Users\lw\Desktop\ojdbc14-14.0.jar 
+		-->
+		<dependency>
+			<groupId>com.oracle</groupId>
+			<artifactId>ojdbc14</artifactId>
+			<version>14.0</version>
+		</dependency>
+		<!--junit依赖 -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+	
+		<!-- dom4j依赖 -->
+		<dependency>
+			<groupId>dom4j</groupId>
+			<artifactId>dom4j</artifactId>
+			<version>1.6.1</version>
+		</dependency>
+		<!-- log4j依赖 -->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+		<!-- 让maven帮我们管理自己封装的jar包 -->
+		<!-- mvn install:install-file -DgroupId=com.briup -DartifactId=woss_interface -Dversion=0.0.1 -Dpackaging=jar -Dfile=C:\Users\lw\Desktop\woss_interface.jar -->
+	
+	</dependencies>
+	<build>
+		<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+					</configuration>
+				</plugin>
+			</plugins>
+	</build>
+</project>
